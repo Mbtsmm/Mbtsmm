@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mbtsmm
 - 👀 I’m interested in learning how to program
-- 🌱 I’m currently learning c++
 - 📫 Reach me:+86 13951925191
 
 <!---
